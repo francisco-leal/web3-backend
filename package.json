@@ -10,5 +10,9 @@
   },
   "scripts": {
     "start": "bun run index.ts"
+  },
+  "dependencies": {
+    "@vercel/kv": "^0.2.2",
+    "viem": "^1.10.14"
   }
 }
